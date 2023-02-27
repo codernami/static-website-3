@@ -1,0 +1,98 @@
+/*Game info Page
+-----------------------------------------------------------------------------------*/
+#container_game
+{
+    padding-top: 100px;
+    padding-bottom: 10px;
+
+    background-image: url(../imgs/cesped4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.game_headings
+{
+    font-size: 25px;
+
+    margin-top: 20px;
+
+    text-align: center;
+
+    color: #fff;
+    text-shadow: 3px 3px #000;
+}
+
+.table_september,
+.table_october,
+.table_locations,
+.table_information
+{
+    font-size: large;
+
+    width: 70%;
+    margin: 30px 150px 30px 200px;
+
+    text-align: center;
+
+    color: #1d1a3b;
+    background-color: #f5f5f5;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
+}
+
+
+.table_locations,
+.table_information
+{
+    text-align: left;
+}
+
+.table_locations td,
+.table_information td
+{
+    border: .5px solid #1d1a3b;
+}
+
+th
+{
+    color: #fff;
+    background-color: #1d1a3b;
+}
+
+.caption_locations
+{
+    font-size: 20px;
+
+    padding-bottom: 5px;
+
+    text-align: left;
+
+    color: #fff;
+    text-shadow: 3px 3px #000;
+}
+
+.section_maps
+{
+    font-size: 20px;
+
+    display: flex;
+
+    margin-top: 40px;
+    padding-bottom: 60px;
+
+    color: #fff;
+    text-shadow: 3px 3px #000;
+
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.map
+{
+    margin-top: 70px;
+}
+
+iframe
+{
+    margin-top: 10px;
+    border: 1px solid #000;
+}

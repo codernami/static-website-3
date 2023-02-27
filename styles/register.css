@@ -1,0 +1,159 @@
+/*
+ Registration Page
+--------------------------------------------------------------------------------------------------------*/
+#container_form
+{
+    height: 625px;
+}
+
+.form_box
+{
+    padding-bottom: 50px;
+    background-image: url(../imgs/soccer_image3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form_box h1
+{
+    font-size: 35px;
+
+    margin-bottom: 60px;
+    padding-top: 130px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #fff;
+    text-shadow: 3px 5px 2px #000;
+}
+
+form
+{
+    font-size: 20px;
+
+    margin-right: 150px;
+    margin-left: 150px;
+    padding: 30px;
+
+    color: #000;
+    border: 2px solid #367708;
+    border-radius: 10px;
+    background-color: #4dc026;
+}
+
+label
+{
+    line-height: 85px;
+
+    margin: 10px;
+}
+
+legend
+{
+    font-weight: bold;
+}
+
+form fieldset + fieldset
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    border: .5px solid #000;
+}
+
+input
+{
+    font-size: 15px;
+
+    width: 25%;
+    padding: 5px;
+}
+
+#last_name
+{
+    width: 38%;
+}
+
+#address
+{
+    width: 80%;
+}
+
+#city
+{
+    width: 52%;
+}
+
+#birth
+{
+    margin-right: 20px;
+}
+
+#parent
+{
+    width: 77%;
+}
+
+#phone
+{
+    width: 30%;
+}
+
+#mail
+{
+    width: 33%;
+}
+
+input[type=radio]
+{
+    width: 5%;
+}
+
+input[type=checkbox]
+{
+    width: 5%;
+    margin-top: 5px;
+}
+
+#schools1,
+#schools2,
+#jersey_size,
+#shorts_size
+{
+    font-size: 15px;
+}
+
+.section_form_one,
+.section_form_six
+{
+    border: none;
+}
+
+.section_form_text
+{
+    line-height: 25px;
+
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.section_form_text p
+{
+    line-height: 45px;
+}
+
+.btn
+{
+    font-size: 15px;
+
+    margin-top: 40px;
+    margin-left: 720px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    color: #fff;
+    border-radius: 10px;
+    background: #00008b;
+}

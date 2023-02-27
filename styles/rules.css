@@ -1,0 +1,63 @@
+/*Rules Page
+-----------------------------------------------------------------------------------*/
+
+#container_rules
+{
+    padding-top: 50px;
+    padding-bottom: 10px;
+
+    background-image: linear-gradient(to right,rgb(64, 70, 64), #81857f);
+}
+
+.list_box
+{
+    margin: 30px 110px 40px 110px;
+    padding: 70px 100px 60px 100px;
+
+    color: #000;
+    border: 2px solid #000;
+    background-color: #d8dfd5;
+}
+
+.header_rules
+{
+    font-size: 20px;
+
+    padding-top: 20px;
+    padding-bottom: 70px;
+
+    text-align: center;
+}
+
+.list_rules
+{
+    line-height: 30px;
+
+    list-style-position: inside;
+}
+
+.list_rules h4
+{
+    font-weight: bold;
+
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.list_rules ul,
+ol
+{
+    margin-left: 20px;
+}
+
+.list_rules_type_latin li
+{
+    margin-left: 20px;
+
+    list-style-type: lower-latin;
+}
+
+ol li
+{
+    margin-top: 10px;
+}
