@@ -7,4 +7,4 @@
 + Present data in lists and tables.
 + Add forms and maps.
 
-👉 [Watch live demo](https://amansgz.github.io/nysl-version/)
+[Live demo](https://codernami.github.io/static-website-3/)
