@@ -62,7 +62,7 @@ body
 #container_home
 {
     height: 100vh;
-    background-image: url(../imgs/campofutbol.jpg);
+    background-image: url(./imgs/campofutbol.jpg);
     background-size: 100% 100%;
     background-position: fixed;
 }
@@ -197,7 +197,7 @@ body
 #container_contact
 {
     height: 100vh;
-    background-image: url(../imgs/pelotacopia.png);
+    background-image: url(./imgs/pelotacopia.png);
     background-size: 100% 100%;
     background-position: fixed;
 }
